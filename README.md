@@ -55,7 +55,7 @@ from src.functions import (csv_mini_clean, build_contingency_table,
 
 ## Slides
 Add your Google Slides link here (View‑only):  
-- [Slides](PASTE_LINK_HERE)
+- [Slides](https://docs.google.com/presentation/d/11uPlTww5BHim5_AVdJEL_pZpJgZu_85GQPbEIvphxGM/edit?usp=sharing)
 
 ## Results (to summarize after final run)
 - Completion rate: Control __ vs Test __  
